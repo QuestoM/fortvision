@@ -1,7 +1,5 @@
 # Ad Analytics Dashboard
 
-![Ad Analytics Dashboard](https://i.imgur.com/uZshILa.png)
-
 A modern advertising analytics dashboard built with Next.js 14, Clerk Authentication, TailwindCSS, and shadcn/ui components. This application allows you to connect your Google Ads and Facebook Ads accounts to visualize campaign performance data in one place.
 
 ## 🚀 Features
